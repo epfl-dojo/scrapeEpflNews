@@ -1,0 +1,19 @@
+{
+  "name": "scrapeepflnews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epfl-dojo/scrapeEpflNews.git"
+  },
+  "author": "epfl-dojo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epfl-dojo/scrapeEpflNews/issues"
+  },
+  "homepage": "https://github.com/epfl-dojo/scrapeEpflNews#readme"
+}
