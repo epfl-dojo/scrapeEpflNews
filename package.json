@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/epfl-dojo/scrapeEpflNews/issues"
   },
-  "homepage": "https://github.com/epfl-dojo/scrapeEpflNews#readme"
+  "homepage": "https://github.com/epfl-dojo/scrapeEpflNews#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
